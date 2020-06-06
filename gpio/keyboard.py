@@ -1,4 +1,4 @@
-from getch import _GetchUnix
+from .getch import _GetchUnix
 
 class Listener:
     def __init__(self):
